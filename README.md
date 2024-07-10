@@ -10,6 +10,7 @@ Vous pouvez retrouvez ici mes projets réaliser lors de mon alternance en école
 Bonne navigation !
 
 --> [Projets en Entreprise](company-projects/)
+
 --> [Projets en Ecole](school-projects/)
 
 
@@ -22,4 +23,5 @@ You can find here the projects I completed during my apprenticeship at school an
 Enjoy browsing through my projects!
 
 --> [Company Projects](company-projects/)
+
 --> [School Projects](school-projects/)
