@@ -9,7 +9,6 @@ Ce dépôt rassemble l'ensemble de mes projets et travaux développés au cours 
 ## Contenu du dépôt
 - **Projets académiques :** Les travaux réalisés dans le cadre de mes études.
 - **Projets d'entreprise :** Les scripts, outils, et autres projets développés lors de mon alternance en entreprise.
-- **Documentation :** Les guides et documents associés pour une meilleure compréhension de chaque projet.
 
 ## Comment naviguer ?
 Explorez les différents répertoires pour découvrir mes réalisations. Chaque projet est accompagné d'une brève description et d'instructions pour son utilisation.
